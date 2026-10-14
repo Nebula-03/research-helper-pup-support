@@ -1,4 +1,4 @@
-Research Helper Pup — Support
+# Research Helper Pup — Support
 
 This repository is the public place for the Research Helper Pup Chrome extension’s privacy information and user support. The extension’s source code is maintained separately.
 
@@ -17,4 +17,4 @@ Before attaching a screenshot, remove or cover any private information.
 
 ## Privacy policy
 
-The privacy policy will be published in this repository before the extension is submitted to the Chrome Web Store.
+Read the [Research Helper Pup Privacy Policy](PRIVACY.md).
